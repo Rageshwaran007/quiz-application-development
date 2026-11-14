@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'bright.minds — Quizzes for curious students',
+  title: 'bright.minds — Quizzes for curious people',
   description: 'Practice TNPSC, UPSC, and general knowledge quizzes, solve a 60-second word search, and track your star points.',
   generator: 'v0.app',
   icons: {
